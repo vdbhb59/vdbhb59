@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Header metrics](./metrics/header.svg)](#)
+[![Repositories metrics](./metrics/repositories.svg)](#)
+[![Languages plugin metrics](./metrics/plugin-languages.svg)](#)
+[![Notable contributions plugin metrics](./metrics/plugin-notable.svg)](#)
+[![Achievements plugin metrics](./metrics/plugin-achievements.svg)](#)
+
 ### Hi there 👋
+
 -->
 
 <div align="center">
