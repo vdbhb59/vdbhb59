@@ -1,5 +1,7 @@
 ### Hola/Hallo 👋
 
+- 🔭 I’m currently working on ... Self-Hosting
+
 <!--
 **vdbhb59/vdbhb59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
