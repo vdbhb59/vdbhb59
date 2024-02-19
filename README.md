@@ -1,7 +1,7 @@
 ### Hola/Hallo 👋
 
-- 🔭 I’m currently working on ... Self-Hosting & somewhat on RadioDroid (by Alex Segler)
-- Genofire's Conv6ations application, which he is no longer maintaining for the XMPP chats. Hopefully, I can get it updated to the current state. - Abandoned for now...
+- 🔭 I’m currently working on ... Self-Hosting & .... who knows!!!!
+- ...
 <div align="center">
   <a href="https://github.com/vdbhb59">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdbhb59&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
