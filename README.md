@@ -2,11 +2,14 @@
 
 - 🔭 I’m currently working on ... Self-Hosting & .... who knows!!!!
 - ...
-<div align="center">
-  <a href="https://github.com/vdbhb59">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdbhb59&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdbhb59&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## 📊 Stats:
+![vdbhb59 Github Stats](https://github-stats-alpha.vercel.app/api/?username=vdbhb59&include_all_commits=true)
+
+<p>
+<a href="https://hits.sh/github.com/vdbhb59/">
+<img alt="Profile Views" src="https://hits.sh/github.com/vdbhb59.svg?style=for-the-badge&label=Visits"/>
+</p>
+
 <!--
 **vdbhb59/vdbhb59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,5 +36,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/vdbhb59">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdbhb59&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdbhb59&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vdbhb59">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdbhb59&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdbhb59&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdbhb59&layout=compact&langs_count=7"/>
 </div>
 -->
