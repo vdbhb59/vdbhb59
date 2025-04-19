@@ -1,6 +1,6 @@
 ### Hola/Hallo 👋
 
-- 🔭 I’m currently working on ... Self-Hosting Root Server, Git Code & .... a lot more!!!!
+- 🔭 I’m currently ... Self-Hosted via a Root Server, Git Code & .... a lot more!!!!
 - ...
 ## 📊 Stats:
 ![vdbhb59 Github Stats](https://github-stats-alpha.vercel.app/api/?username=vdbhb59&include_all_commits=true)
